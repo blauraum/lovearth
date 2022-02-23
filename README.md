@@ -5,7 +5,7 @@ LovEarth map
   <head>
     <meta charset="utf-8" />
     <title>Points on a map</title>
-    <meta name="viewport" content="width=100%, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
     <link
       href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css"
