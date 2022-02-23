@@ -22,6 +22,9 @@ LovEarth map
         bottom: 0;
         width: 100%;
       }
+      .container-lg {
+        padding-left: none;
+      }
     </style>
   </head>
   <body>
