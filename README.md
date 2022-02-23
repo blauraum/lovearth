@@ -23,8 +23,8 @@ LovEarth map
         width: 100%;
       }
       .container-lg {
-        width: 100% important;
-        margin-left: 0;
+        max-width: 100% !important;
+        margin-left: 0 !important;
       }
     </style>
   </head>
