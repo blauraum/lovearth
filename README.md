@@ -26,6 +26,10 @@ LovEarth map
         max-width: 100% !important;
         margin-left: 0 !important;
       }
+      .px-3 {
+        padding-left: 0px !important;
+      }
+      
     </style>
   </head>
   <body>
